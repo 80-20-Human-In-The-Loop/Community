@@ -97,7 +97,7 @@ We do not believe AI is evil. We believe AI is a powerful tool that must be used
 We create open source tools that follow the 80-20 philosophy:
 
 ### 🌩️ [Storm Checker](https://github.com/80-20-Human-In-The-Loop/storm-checker)
-**What it does**: AI finds 80% of Python type errors automatically. Humans learn type safety concepts while fixing the important 20%.
+**What it does**: Checks for MyPy Type Issues, categorizes them by complexity, and guides users to fix them. --edu flag for students, and --json flag for AI agents.
 
 **Why it matters**: Developers become better at type safety instead of just having AI fix everything.
 
