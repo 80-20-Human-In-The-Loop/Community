@@ -10,7 +10,7 @@
 
 ### The Story That Changed Everything
 
-In 2023, something amazing happened. AI coding tools became incredibly powerful. Claude Code, GitHub Copilot, and Cursor could write entire applications in minutes. Developers everywhere celebrated.
+In the past years, AI coding tools became incredibly powerful. Claude Code, GitHub Copilot, and Cursor could write entire applications in minutes. Developers everywhere celebrated.
 
 **The tools were like magic.**
 
