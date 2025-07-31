@@ -2,9 +2,9 @@
 
 # 🤖🤝 80-20 Human in The Loop
 
-> Agentic Workflows that ensure the **Wisdom**, **Compassion**, and **Integrity** of a human remains.
+> Agentic Workflows where the **Wisdom**, **Compassion**, and **Integrity** of a human remains.
 
-> AI Tools that don't replace you, but enable you to become **Smarter**, **Faster**, and **Better**! 
+> AI Tools that won't replace you, but help you become **Smarter**, **Faster**, and **Better**! 
 
 ## Why This Organization Exists
 
