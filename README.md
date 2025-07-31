@@ -1,3 +1,5 @@
+**Part of the [80-20 Human in The Loop](https://github.com/80-20-Human-In-The-Loop) ecosystem**
+
 # 🤖🤝 80-20 Human in The Loop
 
 > Agentic Workflows that ensure the **Wisdom**, **Compassion**, and **Integrity** of a human remains.
