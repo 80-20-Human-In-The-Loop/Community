@@ -1,6 +1,6 @@
-**Part of the [80-20 Human in The Loop](https://github.com/80-20-Human-In-The-Loop) ecosystem**
+**Part of the [Human in The Loop](https://github.com/80-20-Human-In-The-Loop) ecosystem**
 
-# 🤖🤝 80-20 Human in The Loop
+# 🤖🤝 Human in The Loop
 
 > Agentic Workflows where the **Wisdom**, **Compassion**, and **Integrity** of a human remains.
 
