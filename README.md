@@ -10,15 +10,13 @@
 
 ### The Story That Changed Everything
 
-In the past years, AI coding tools became incredibly powerful. Claude Code, GitHub Copilot, and Cursor could write entire applications in minutes. Developers everywhere celebrated.
+Recently, AI coding tools became incredibly powerful. Claude Code, GitHub Copilot, and Cursor could write entire applications in MINUTES.
 
 **The tools were like magic.**
 
 You could say "build me a web app" and watch AI create hundreds of lines of code instantly. No more reading documentation. No more debugging for hours. Just describe what you want and AI builds it.
 
 People called this **"vibe coding"** - where you just describe the vibe of what you want and AI makes it real.
-
-**For personal projects, this was wonderful.**
 
 ### The Problem We Discovered
 
