@@ -147,19 +147,19 @@ We believe in **Developer B**. We build tools that create more **Developer B**s 
 
 ## Our Values
 
-### 🌍 Education First
+### Education First
 Every tool we build should teach users something valuable. Learning is more important than convenience.
 
-### 🤝 Community Driven  
+### Community Driven  
 We build in public. We share knowledge. We welcome contributors from every background and skill level.
 
-### 🔒 Security Minded
+### Security Minded
 AI-generated code needs human review. We build tools that make security review easier, not optional.
 
-### 📚 Documentation Focused
+### Documentation Focused
 If humans cannot understand it, it should not exist in production systems.
 
-### 🎯 Quality Obsessed
+### Quality Obsessed
 We believe in testing, type safety, and maintainable code. AI should help achieve these goals, not bypass them.
 
 ## Real-World Examples
