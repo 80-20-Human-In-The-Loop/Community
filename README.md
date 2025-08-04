@@ -8,9 +8,9 @@
 
 ## Why This Organization Exists
 
-### The Story That Changed Everything
+### The AI Coding Tool Revolution
 
-Recently, AI coding tools became incredibly powerful. Claude Code, GitHub Copilot, and Cursor could write entire applications in MINUTES.
+Recently, AI coding tools have become incredibly powerful. Claude Code, GitHub Copilot, and Cursor can write entire applications in MINUTES.
 
 **The tools were like magic.**
 
@@ -20,7 +20,7 @@ People called this **"vibe coding"** - where you just describe the vibe of what 
 
 ### The Problem We Discovered
 
-But then we looked closer. We saw what happened when people relied completely on AI for serious projects.
+Then we looked closer. We saw what happened when people relied completely on AI for serious projects.
 
 **The truth was scary:**
 
@@ -93,6 +93,16 @@ We do not believe AI is evil. We believe AI is a powerful tool that must be used
 ## What We Build
 
 We create open source tools that follow the 80-20 philosophy:
+
+### [Django Mercury Performance Testing](https://github.com/80-20-Human-In-The-Loop/Django-Mercury-Performance-Testing)
+**What it does**: Turns your Django test suite into performance checks. Optional `educational_guidance` mode to teach users how to find and fix slow tests N+1 Database Query issues, memory management, and more! `DjangoMercuryAPITestCase` for beginners/students, and `DjangoPerformanceAPITestCase` for professionals.
+
+**Why it matters**: This tool can help find & solve real problems, and teach users about Django Performance & Testing as they go.
+
+### 🔗 [Django Mercury MCP](https://github.com/80-20-Human-In-The-Loop/Django-Mercury-MCP-Server)
+**What it does**: AI Agents can use Django Mercury for automated performance investigating in AI workflows.
+
+**Why it matters**: The Investigation (80%) is handled by the AI Agent, while the fix (20%) is handled by the human.
 
 ### 🌩️ [Storm Checker](https://github.com/80-20-Human-In-The-Loop/storm-checker)
 **What it does**: Checks for MyPy Type Issues, categorizes them by complexity, and guides users to fix them. --edu flag for students, and --json flag for AI agents.
