@@ -449,12 +449,6 @@ If we're tearing ourselves apart, any 10 members can call for a cooling-off peri
 ## Article X: The Human Clause
 *Why we're really here*
 
-We're not building a coding organization. We're building a community of humans who happen to code. The difference matters.
-
-When this constitution conflicts with human decency, decency wins.
-When efficiency conflicts with compassion, compassion wins.
-When metrics conflict with meaning, meaning wins.
-
 We're here to prove that technology can amplify humanity instead of replacing it. That's not naive—it's necessary.
 
 And if that sounds too idealistic, fuck it. We'd rather fail trying to stay human than succeed at becoming machines.
