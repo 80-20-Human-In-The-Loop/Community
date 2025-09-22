@@ -5,15 +5,15 @@ This is my first proposal! I need three signatories, ideally one from each field
 
 ## Preamble
 
-We are developers, teachers, thinkers, and users united by a growing alarm: we are building systems we don't understand, using tools that make us dumber, and calling it progress.
+We are developers, teachers, thinkers, and users caught in a trap we built ourselves. United by a growing alarm: we are building systems we don't understand, using tools that make us dumber, and calling it progress.
 
-This community exists to prove there's another way. Technology should amplify human capability, not replace it. AI should handle the repetitive so humans can focus on the creative, the ethical, the meaningful. 
+This community exists to prove there's another way. Technology should amplify human capability, not replace it. AI should handle the mindless repetitive crap so humans can focus on the creative, the ethical, the meaningful; the work that reminds us why we started coding in the first place.
 
 We believe in three irreplaceable human values that no algorithm can replicate: **Wisdom** (understanding consequences beyond data), **Integrity** (taking responsibility for what we build), and **Compassion** (caring about human flourishing over metrics).
 
-These aren't abstract ideals. They're practical necessities. When systems fail—and they always do—we need humans who understand why, who can fix them, who remember what the code was supposed to do for people.
+These aren't just nice words we put in our constitution to feel good about ourselves. They're the difference between tools that serve humans and tools that consume them. When systems fail—and they always do—we need humans who understand why, who can fix them, who remember what the code was supposed to do for people.
 
-This constitution isn't perfect. It's an experiment in building technology communities that don't eat their own souls.
+This constitution is an experiment in building technology communities that don't get their souls eaten. Could a corporation adopt this constitution? Absolutely fucking not. The language alone would cause the entire HR department to shit their pants. That's the point. This constitution is corporate-repellent by design.
 
 Join us if you believe humans matter more than metrics.
 
@@ -48,63 +48,23 @@ The Leader retains 20% reserve power - enough to break deadlocks and prevent cat
 
 Each member self-selects their committee. No gatekeeping, no entrance exams. You know where you belong better than we do.
 
-**3. Committee Structure and Representation**
+**3. How Committees Work**
 
-**The Spokesperson Role:**
-- Each committee elects a spokesperson annually (during campaign season)
-- The spokesperson is NOT the boss - they're the voice, not the brain
-- Responsibilities: Present committee decisions, facilitate inter-committee communication, call committee meetings
-- Can be recalled by 60% committee vote at any time
-- Default selection: Person with most votes becomes spokesperson unless they decline
+If a committee can't decide on their internal decision-making structure within 30 days of the new committee year (by May 1st), they default to direct democracy mode for the remainder of that year: every member votes, 51% wins.
 
-**Internal Committee Governance:**
-Each committee must choose one of these structures within 30 days of formation:
+Each committee picks a spokesperson annually - they're the voice, not the boss. Can be recalled by 60% committee vote anytime.
 
-a) **Direct Democracy Model**
-   - Every decision goes to full committee vote
-   - 51% decides normal committee business
-   - 66% needed for committee positions on Normal Decisions
-   - 75% needed for committee positions on Major Decisions
+If a committee drops below 3 members at any point during the year, it ceases to function as an independent committee. Within 7 days, its remaining members must choose to join one of the other two committees for the remainder of that committee year. Members should split roughly 50/50 between the remaining committees when possible, but ultimately each person chooses where they go.
 
-b) **Delegated Working Groups Model**
-   - Committee creates 3-5 working groups for specific areas
-   - Working groups have autonomy for their domain
-   - Full committee votes only on cross-group issues
-   - Each working group selects its own coordinator
+**4. Committee Communication & Coordination**
 
-c) **Rotating Council Model**
-   - 5-person council elected quarterly from committee
-   - Council makes day-to-day decisions
-   - Full committee can override council with 60% vote
-   - Council membership rotates - no consecutive terms
-
-d) **Consensus Model (for the brave)**
-   - All decisions require consensus minus one (one can stand aside)
-   - If consensus fails after 3 meetings, falls back to 75% vote
-   - Requires trained facilitator (committee provides training)
-
-**4. Changing Committee Structure**
-- Committees can change their governance model with 66% approval
-- Must use current model for at least 6 months before changing
-- Changes take effect at next campaign cycle
-
-**5. Inter-Committee Relations**
-
-**When Committees Disagree Internally:**
-- Minority opinions can be submitted alongside majority decisions
-- Any 30% of a committee can request Leader mediation
-- If a committee is paralyzed for 30+ days, Leader can mandate temporary direct democracy
-
-**When One Committee Feels Bulldozed:**
-- Any committee can invoke "Stop and Explain" - pauses decision for 1 week
-- Requesting committee must articulate specific concerns
-- Other committees must address concerns before proceeding
-- Can only be used once per decision
-
-**6. The Reality Check Clause**
-If a committee has fewer than 5 members, it automatically operates in Direct Democracy mode.
-
-**7. Committee Communication & Coordination**
+**The Anti-Bureaucracy Clause:**
+Committees can operate however they want as long as:
+- Decisions are public
+- People know how to participate
+- Other committees can provide input
+- Nobody's gatekeeping
+- No bullshit theater just to look "professional"
 
 **Public Spaces (Where Democracy Happens):**
 - **GitHub Discussions**: Official proposals, decisions, and community-wide discussions
@@ -119,39 +79,13 @@ If a committee has fewer than 5 members, it automatically operates in Direct Dem
 - New members get invited during onboarding
 - Not secret cabals - just spaces to hash out ideas before going public
 
-**The Communication Flow:**
-1. **Internal Discussion** → Committee debates privately, figures out their position
-2. **Public Proposal** → Committee posts their official position on GitHub Discussions
-3. **Community Feedback** → Everyone can comment, suggest, object
-4. **Final Decision** → Based on decision type (Minor/Normal/Major), appropriate committees vote
-5. **Implementation** → Decision logged, action taken, everyone knows what happened
+**Transparency**
+Committees organize and communicate however they want. All decisions must be posted publicly on GitHub with:
+- What was decided
+- Why it was decided  
+- What happens next
 
-**Transparency Requirements:**
-- All official decisions must be posted publicly
-- Private discussions are fine, but decisions must include:
-  - What was decided
-  - Why it was decided
-  - Who disagreed and why (minority opinions welcome)
-  - What happens next
-- No "we decided in private and you'll never know why"
-
-**Committee Identification:**
-- GitHub Discussion posts should start with [TECH], [HUM], or [PEOPLE] when speaking as committee
-- Committee spokespersons get a special tag/flair
-- Individual members can speak personally without committee tags
-- Clear difference between "I think" and "Our committee thinks"
-
-**The Anti-Bureaucracy Clause:**
-If this feels like too much process, it probably is. Committees can operate however they want as long as:
-- Decisions are public
-- People know how to participate
-- Other committees can provide input
-- Nobody's gatekeeping
-
-**Emergency Communications:**
-- Any committee member can post an [URGENT] thread
-- Leader monitors these and can fast-track decisions
-- For true emergencies (site down, security breach), act first, document later
+That's it. No secret decisions.
 
 ## Article III: How Decisions Happen
 *Democracy is slow but that's a feature, not a bug*
@@ -166,7 +100,7 @@ If this feels like too much process, it probably is. Committees can operate howe
 **2. Normal Decisions (Two Committees Agree)**
 - Cross-functional changes
 - New tools or significant features
-- Minimal Buget Impact
+- Minimal Budget Impact
 - Partnerships with other communities
 - **Gaming Prevention**: If 5+ members from any committee object to categorization, it escalates to Major
 
@@ -177,35 +111,14 @@ If this feels like too much process, it probably is. Committees can operate howe
 - Removing members
 - Accepting corporate sponsorship
 - Taking official political stances
+- Corporate buyout (lol absolutely fucking not)
 
-**4. The Anti-Gaming Provisions**
+**4. Don't Game the System**
 
-**The Slicing Defense:**
-- You cannot split one decision into multiple smaller ones to avoid scrutiny
-- Example: Ten $99 purchases for the same project = one $990 Normal Decision
-- If committees notice pattern splitting, all related decisions combine retroactively
-
-**The Vagueness Trap:**
-- Proposals must be specific enough that someone could implement them
-- "Improve community tools" is not a proposal
-- "Add authentication to Storm Checker using JWT" is a proposal
-- Vague proposals get sent back for clarification, not voted on
-
-**The Precedent Shield:**
-- "We did this before" only applies if circumstances haven't materially changed
-- Past bad decisions don't justify future bad decisions
-- Each proposal stands on its own merits
-
-**The Retrospective Escalation:**
-- If a Minor decision turns out to affect other committees significantly, they can retroactively challenge it
-- Requires showing actual harm or substantial unexpected impact
-- Leader adjudicates if the escalation is valid
-
-**The Good Faith Assumption (With Teeth):**
-- First miscategorization: Assume honest mistake, educate on categories
-- Second miscategorization: Public warning, extra scrutiny on future proposals
-- Third miscategorization: One-year ban from making proposals (can still vote)
-- Patterns of gaming = potential removal from community
+- Can't split one big decision into many small ones to avoid scrutiny
+- Proposals must be specific enough to implement
+- If you try to game the system, we'll call you out and potentially vote you out
+- Don't be an asshole
 
 **5. Decision Categories - The Real Test**
 
@@ -231,19 +144,12 @@ If this feels like too much process, it probably is. Committees can operate howe
 - Anything involving corporate money
 - Anything that could get us sued
 - Anything that changes our core philosophy
-- Anything you're hoping people won't notice
+- Anything you're hoping people won't notice (we will notice)
 
-**6. The Nuclear Option**
-If committees deadlock for 60+ days on critical issues, Leader can call a general assembly where every member votes directly.
+**6. Breaking Deadlocks**
+If committees deadlock for 60+ days on something critical, the Leader can call a general assembly where every member votes directly.
 
-**Nuclear Option Safeguards:**
-- Must document all attempted resolutions first
-- Must show why delay causes active harm
-- Cannot be used for convenience or impatience
-- Assembly decision is final - no re-litigation for 1 year
-- Can only be invoked twice per year maximum
-
-**7. The Recursive Check**
+**7. The Recursive Absurd Check**
 Every decision, regardless of level, must answer:
 - Are we making this decision to avoid making harder decisions?
 - Will we understand why we did this in 2 years?
@@ -311,67 +217,22 @@ Every decision, regardless of level, must answer:
 - Prevent my own removal if committees agree
 - Pretend math works differently than it does
 
-## Article V: Campaign Cycles
-*Democracy needs regular chances to change its mind*
+## Article V: Membership
+*Simple and clear*
 
-**1. The Campaign Season**
-- **When**: Every January 1st, the 90-day campaign season begins
-- **Who Can Run**: ANYBODY. No gatekeeping, no prerequisites, no "you must be this technical to ride"
-- **Application**: Simple form - Name, chosen committee, why you want to join (optional)
-- **Campaign Style**: However you want - write manifestos, make memes, stay silent, whatever works
-- **The Vote**: Happens April 1st (no joke), results announced same day
+**Annual Membership**
+- Every January, people say what committee they want to join
+- Current members can stay or switch committees  
+- New people can apply - just say who you are and why you're interested
+- Committee membership runs April 1 to March 31
+- We'll figure out a simple way to vote if more people want in than we can handle
 
-**2. How Voting Works**
-- **Simple Ranked Choice**: List your top candidates for each committee
-- **Who Votes**: Every current member votes for all committees (not just their own)
-- **The Platform**: We'll build a simple Django app for this (because eating our own dogfood matters)
-- **Transparency**: All vote tallies public after election
-
-**3. Committee Sizing (The Fair Way)**
-- **Minimum Viable**: Each committee needs at least 5 members to function
-- **Natural Growth**: No maximum size - let committees grow based on interest
-- **Proportional Power**: Whether a committee has 5 or 50 members, it still has 26.67% voting power
-- **Internal Democracy**: Larger committees might need sub-groups, but that's their problem to solve
-
-**4. The Membership Year**
-- **Terms**: April 1 to March 31 (one full year)
-- **Commitment**: You're in your chosen committee for the full year
-- **No Committee Hopping**: Pick your lane and stay in it until next campaign
-- **Resignation**: You can leave anytime, but can't switch committees mid-year
-
-**5. Campaign Rules (Keep It Human)**
-- **Be Honest**: Promise only what you'll actually do
-- **Be Respectful**: Attack ideas, not people
-- **Be Transparent**: If you're running as a group/slate, say so
-- **No Vote Buying**: Obviously
-- **No Harassment**: Campaign FOR yourself, not AGAINST others
-
-**6. Special Circumstances**
-
-**If a Committee Falls Below 5:**
-- Emergency recruitment period (30 days)
-- If still under 5, committee functions merge temporarily to others
-- Leader can make emergency appointments until next election
-
-**Campaigning Ideas (Not Requirements):**
-- Post your vision in GitHub Discussions
-- Share what you've built/written/thought about
-- Form slates with others who share your vision
-- Or just put your name in and let your work speak for itself
-
-**7. The Anti-Gaming Provisions**
-- **No Sock Puppets**: One person, one vote, one membership
-- **No Strategic Flooding**: Coordinating to game committee sizes = ban
-- **No Quid Pro Quo**: "Vote for me and I'll vote for you" schemes = out
-- **The Sniff Test**: If it feels slimy, it probably is
-
-**8. Why This Matters**
-Annual elections mean:
-- Fresh energy and ideas
-- Accountability (mess up and you're out next year)
-- Opportunity (anyone can step up)
-- Evolution (the community can change direction)
-
+**The Basics**
+- One person, one committee, one year commitment
+- Committees need at least 5 members to function
+- No maximum size - let committees grow naturally
+- Each committee still has 26.67% voting power regardless of size
+  
 ## Article VI: The Evolution Clause
 *Even constitutions need version control*
 
@@ -405,24 +266,18 @@ Annual elections mean:
 
 **2. Constitutional Amendments**
 
-**What Can Be Added:**
-Anything except Sacred Principles (Article I) can be amended through:
-- Unanimous committee agreement (80% without leader), OR
-- Two committees + Leader agreement (53.34% + 20% = 73.34%), OR  
-- General assembly with 75% of all members
-
 **Amendment Process:**
-1. Proposal posted publicly with 14-day comment period
-2. Proposer must address substantial concerns raised
-3. Final version locked for vote
-4. Voting period lasts 7 days
-5. If passed, takes effect in 30 days (unless urgent)
+Propose it publicly, discuss it openly, vote on it. If it passes, it happens.
+
+This always counts as a Major Decision (all 3 committees agree, or 2 committees + leader)
 
 **Version Control:**
 - Every amendment gets a version number (always 1.n)
 - Full history maintained in git
 
 **3. The Fork Clause**
+
+Sometimes shit doesn't work out. That's fine. Fork it.
 
 **When Forking Is Appropriate:**
 - Irreconcilable philosophical differences
@@ -477,7 +332,7 @@ The only failure is refusing to evolve when evolution is needed.
 
 **4. Right to Boundaries**
 - This is a volunteer community, not a job
-- "Not today." or "Now Now." are valid replies.
+- "Not today." or "Not now." are valid replies.
 - Burnout is real - take breaks without guilt
 - Life happens - committees understand absence
 
@@ -521,56 +376,28 @@ The only failure is refusing to evolve when evolution is needed.
 **11. The Non-Negotiable Responsibilities**
 - No harassment. Period. First offense = warning. Second = removal.
 - No discrimination. Your biases are your problem to fix.
-- No exploitation. We're building tools for developers, not free labor for your startup.
+- No exploitation. We're building tools for humans, not free labor for your startup.
 - No surveillance. Don't track users without explicit consent.
 
 **12. The Community Protection Clause**
 
 **What We Mean By Harmful Behavior:**
-- **Harassment**: Repeated unwanted contact, personal attacks, doxxing, threats
-- **Bad-faith argumentation**: Deliberately misrepresenting others' positions, demanding endless proof while providing none, derailing conversations
-- **Discrimination**: Treating people differently based on identity rather than actions
-- **Exploitation**: Using community resources/labor for personal profit without consent
-- **Toxic patterns**: Consistently negative, draining community energy, making everything about themselves
+Don't harass, discriminate, exploit, or consistently drain community energy.
 
-**The Process (Because Due Process Matters):**
-1. **First incident**: Private message from committee spokesperson explaining the problem
-2. **Second incident**: Public warning and temporary suspension from discussions (7 days)
-3. **Third incident**: Removal vote by committees (handled as Major Decision)
+**The Simple Truth:**
+Don't be an asshole. If you are, committees vote you out.
 
-**Immediate Removal (Some Things Are Unforgivable):**
-- Doxxing or threatening members
-- Sexual Harrassment
-- Hate speech or discriminatory attacks
-- Malicious code intended to harm users
-- Illegal activity using community resources
+**Immediate Removal:**
+Doxxing, threats, sexual harassment, hate speech, malicious code, illegal activity = instant removal.
 
-**The Investigation Process:**
-- Accused person gets to provide their perspective
-- Multiple committee members review evidence
-- Decision documented with reasoning
-- Appeals possible through leadership
-
-**Protecting the Accused Too:**
-- False accusations are also harmful behavior
-- Disagreement alone is never grounds for removal
-- Technical criticism is not harassment
-- Being annoying is not the same as being harmful
-
-**The Gray Areas:**
-Sometimes behavior isn't clearly harmful but definitely isn't helpful. For these cases:
-- First try education: "Hey, this is how we do things here"
-- If pattern continues: "This isn't working out"
-- Mutual parting possible: "Maybe this isn't the right community for you"
-
-**The Spirit of This Clause:**
-We're not trying to create a police state. We're trying to keep a space where people can build, learn, and grow without abuse. Most people never need this clause. But when someone is genuinely harmful, we need clear ways to protect everyone else.
+**Remember:**
+Technical criticism isn't harassment. Being annoying isn't being harmful. False accusations are also harmful behavior.
 
 ## Article VIII: The Recursive Absurd Check
 *Our philosophical immune system*
 
 **The Core Recognition:**
-We are building systems that build systems that build us. Without conscious intervention, we become prisoners of our own code, optimizing meaningless metrics while forgetting what problems we originally meant to solve.
+We are building systems that build systems that build us. Without conscious intervention, we become prisoners of our own bullshit, optimizing meaningless metrics while forgetting what problems we originally meant to solve.
 
 **Every Decision Must Pass This Filter:**
 
@@ -630,6 +457,8 @@ When metrics conflict with meaning, meaning wins.
 
 We're here to prove that technology can amplify humanity instead of replacing it. That's not naive—it's necessary.
 
+And if that sounds too idealistic, fuck it. We'd rather fail trying to stay human than succeed at becoming machines.
+
 ---
 
 ## Signatures
@@ -644,6 +473,7 @@ We're here to prove that technology can amplify humanity instead of replacing it
 
 ## Amendment Log
 
+*Version 0.2* - Condensed, Simplified, removed HR-speak, added authentic strategic profanity. - September 2025
 *Version 0.1* - Here's my Original, I need 3 signatories. - September 2025
 
 ---
