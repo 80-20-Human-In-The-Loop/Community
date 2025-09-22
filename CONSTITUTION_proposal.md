@@ -3,7 +3,7 @@
 
 This is my first proposal! I need three signatories, ideally one from each field covered by the three comittees (Technical, Humanities, & People's)
 
-To sign this, you simply have to read the document, and agree with it. If you disagree with it to the point where you would like to see some changes, make a [Github Discussion Post under 'Constitution Concern'](https://github.com/orgs/80-20-Human-In-The-Loop/discussions/new?category=constitution-concern)
+To sign this, you simply have to read the document, and agree with it. If you disagree with it to the point where you would like to see some changes, make a [Github Discussion Post under 'Constitution Concern'](https://github.com/orgs/80-20-Human-In-The-Loop/discussions/new?category=constitution-concern). We'd rather hash it out here than have you reluctantly sign something you don't actually support.
 
 ## Preamble
 
