@@ -5,6 +5,8 @@ This is my first proposal! I need three signatories, ideally one from each field
 
 To sign this, you simply have to read the document, and agree with it. If you disagree with it to the point where you would like to see some changes, make a [Github Discussion Post under 'Constitution Concern'](https://github.com/orgs/80-20-Human-In-The-Loop/discussions/new?category=constitution-concern). We'd rather hash it out here than have you reluctantly sign something you don't actually support.
 
+This may read as paranoid about corporate capture. That's because we've watched it happen to project after project. We'd rather be overly cautious than naive.
+
 ## Preamble
 
 We are developers, teachers, thinkers, and users caught in a trap we built ourselves. United by a growing alarm: we are building systems we don't understand, using tools that make us dumber, and calling it progress.
