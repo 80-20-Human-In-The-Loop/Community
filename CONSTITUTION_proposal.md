@@ -1,11 +1,15 @@
 # The Constitution of the 80-20 Human in The Loop Community
 *A Democratic Experiment in Preserving Human Agency While using AI Responsibly*
 
+-- Note from Writer -- 
+
 This is my first proposal! I need three signatories, ideally one from each field covered by the three comittees (Technical, Humanities, & People's)
 
 To sign this, you simply have to read the document, and agree with it. If you disagree with it to the point where you would like to see some changes, make a [Github Discussion Post under 'Constitution Concern'](https://github.com/orgs/80-20-Human-In-The-Loop/discussions/new?category=constitution-concern). We'd rather hash it out here than have you reluctantly sign something you don't actually support.
 
 This may read as paranoid about corporate capture. That's because we've watched it happen to project after project. We'd rather be overly cautious than naive.
+
+As Madison wrote in Federalist No. 51: "If men were angels, no government would be necessary." We're not angels. We're humans who will face temptation, exhaustion, and generous corporate offers. This constitution isn't about moral superiority - it's about admitting we'll need these rules most when we want them least.
 
 ## Preamble
 
@@ -68,7 +72,6 @@ Committees can operate however they want as long as:
 - People know how to participate
 - Other committees can provide input
 - Nobody's gatekeeping
-- No bullshit theater just to look "professional"
 
 **Public Spaces (Where Democracy Happens):**
 - **GitHub Discussions**: Official proposals, decisions, and community-wide discussions
@@ -199,11 +202,6 @@ Every decision, regardless of level, must answer:
 
 **Other Leader Powers (The Non-Voting Ones):**
 
-**Tiebreaker Authority:**
-- When 2 committees can't agree on Normal decisions
-- My 20% tips the scale
-- Must explain reasoning publicly
-
 **Peace-Making Authority:**
 - Can call "cooling off" periods when committees are fighting
 - Can facilitate mediation between committees
@@ -224,18 +222,58 @@ Every decision, regardless of level, must answer:
 ## Article V: Membership
 *Simple and clear*
 
-**Annual Membership**
+**1. Annual Membership**
 - Every January, people say what committee they want to join
 - Current members can stay or switch committees  
 - New people can apply - just say who you are and why you're interested
 - Committee membership runs April 1 to March 31
-- We'll figure out a simple way to vote if more people want in than we can handle
 
-**The Basics**
+**2. The Basics**
 - One person, one committee, one year commitment
-- Committees need at least 5 members to function
+- Committees need at least 3 members to function
 - No maximum size - let committees grow naturally
 - Each committee still has 26.67% voting power regardless of size
+
+**3. Participation is a Right, Not a Duty**
+- Membership grants you the *right* to participate, not the obligation
+- You can vote on decisions - or not
+- You can join meetings - or not  
+- You can contribute to discussions - or not
+- You can build things - or not
+- Your membership is valid whether you're active daily or vote once a year
+- We recognize and value all contributions, but we don't demand them
+- Life happens. Sometimes you can give 100%, sometimes 0%. Both are okay.
+
+**What This Means**
+- No attendance requirements
+- No minimum contribution quotas
+- No guilt for being quiet
+- Active members can't use participation to claim more power than quiet members
+- One member = one share of committee power, regardless of activity level
+
+**5. How Voting Actually Works**
+
+**Voting Timelines:**
+- **Minor Decisions**: 24 hours notice → 24 hours to vote (2 days total)
+- **Normal Decisions**: 48 hours notice → 48 hours to vote (4 days total)  
+- **Major Decisions**: 72 hours notice → 72 hours to vote (6 days total)
+
+**Participation Requirements:**
+- **Minor/Normal Decisions**: Simple majority of whoever votes
+- **Major Decisions**: Minimum 30% of committee members must vote for decision to be valid
+  - If less than 30% vote, decision fails regardless of the split
+  - "I abstain" counts as participation
+  - "Fuck this, I'm out" also counts as participation
+
+**The Reality Check:**
+- Low participation = low power
+- If only 5 people from a 100-person committee vote, those 5 wield the committee's power
+- This is intentional: participation is power
+- If you don't vote, you're delegating to those who do
+- Gaming this makes you an asshole (see Article VII)
+
+**Special Cases:**
+- Votes during major holidays require extra 48 hours
   
 ## Article VI: The Evolution Clause
 *Even constitutions need version control*
@@ -243,10 +281,32 @@ Every decision, regardless of level, must answer:
 **1. Leadership Accountability (The Democratic Sword)**
 
 **Removing the Leader:**
-- All 3 committees can vote to remove the leader through Major Decision framework (80% total power)
+- All 3 committees can vote to remove leader through Major Decision framework (80% total power)
+- At least 50% of eligible voters must participate
 - Vote of no confidence triggers immediate leadership race
 - Ousted leader can run for re-election (if they have the guts)
-- Removal vote has a 90 day cooldown (prevent constant coup attempts)
+- Removal vote has 90 day cooldown
+
+**The Foundation Period (Until April 1, 2027):**
+- Mathew Storm retains founder protections
+- Cannot be removed as leader
+- Can veto any decision that threatens project integrity
+- Must document all vetoes publicly with reasoning
+
+**Why This Exists:**
+- Democracy needs time to build genuine community
+- Hostile takeovers are real (see: every DAO that got attacked)
+- We're being honest about the bootstrap paradox
+- This clause self-destructs on April 1, 2027
+
+**After Genesis:**
+- Full constitutional rules apply
+- Founder becomes regular leader with 20% vote
+- No special protections
+- May the best human win
+
+**The Commitment:**
+"I'm giving myself 15 months of protection to build a community strong enough to remove me if I fuck up. After that, I'm just another member who happens to hold 20% voting weight. If you can't trust me with temporary power, why would you trust this constitution with permanent governance?" - Mathew Storm
 
 **The Leadership Race:**
 - **Duration**: 30-day campaign period starts immediately after successful removal vote
@@ -378,10 +438,11 @@ The only failure is refusing to evolve when evolution is needed.
 - If a meeting could have been a GitHub comment, say so
 
 **11. The Non-Negotiable Responsibilities**
-- No harassment. Period. First offense = warning. Second = removal.
-- No discrimination. Your biases are your problem to fix.
-- No exploitation. We're building tools for humans, not free labor for your startup.
-- No surveillance. Don't track users without explicit consent.
+- No harassment. Period. First offense = warning. Second = removal
+- No discrimination. Your biases are your problem to fix
+- No exploitation. We're building tools for humans, not free labor for your startup
+- No surveillance. Don't track users without explicit consent
+- Harmful behavior will not be tolerated
 
 **12. The Community Protection Clause**
 
