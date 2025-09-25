@@ -4,19 +4,19 @@
 
 ## The Problem
 
-Silicon Valley has a pathology. They move fast and break things, but now the things they're breaking are democracy, human agency, and our capacity to solve real problems.
+There's a disconnect between how AI tools are marketed and what actually happens when they fail. We've all seen the pattern: a new AI coding assistant promises to "democratize development." Companies adopt it. Developers stop understanding their own codebases. Then something breaks in production and nobody knows why, because the humans who could have debugged it stopped doing that work months ago.
 
-The pattern is predictable: Venture capitalists fund another "democratizing" AI tool. Tech firms buy it. Developers lose skills. Production breaks at 3 AM. Nobody knows how to fix it. The humans who could have prevented it were removed from the loop months ago.
+This isn't really about Silicon Valley having some grand conspiracy - it's simpler than that. When you optimize purely for speed and efficiency, you lose the friction that keeps people engaged and learning. When junior developers only prompt instead of code, they never develop debugging skills. When senior developers review AI-generated PRs they don't fully understand, technical debt accumulates invisibly.
 
 This isn't innovation. It's deskilling at scale.
 
-## What We're Fighting
+## What's Really Happening
 
-**The Silicon Valley Consensus:** Let AI do the thinking. Ship fast. Fix it later (or never). Replace developers with prompt engineers. Call it "democratization" while concentrating power in the hands of those who control the models.
+**The Prevailing Approach:** AI handles the complexity. Ship fast and iterate. Prompt engineers guide AI to generate code. It's called "democratization," but the actual control increasingly sits with whoever builds and owns the models.
 
-**The Real Cost:** Junior developers who can deploy but can't debug. Senior developers drowning in AI-generated pull requests that "work" but nobody understands. Critical systems built on foundations nobody can maintain. The systematic removal of human judgment from places where it matters most.
+**The Human Cost:** Junior developers who can deploy but can't debug. Senior developers drowning in AI-generated pull requests that "work" but nobody understands. Critical systems built on foundations nobody can maintain. The systematic replacement of human judgment in places where it matters most.
 
-**The Big Lie:** That efficiency equals progress. That automation equals democratization. That removing humans from decisions makes those decisions better.
+**The Uncomfortable Truth:** That efficiency doesn't always equal progress. That automation isn't automatically democratization. That removing humans from decisions doesn't necessarily make those decisions better - it further alienates us from the systems we depend on, the craft we once understood, and ultimately from our ability to solve problems when the abstractions fail.
 
 ## Our Theory of Change
 
