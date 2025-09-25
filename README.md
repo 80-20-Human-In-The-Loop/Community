@@ -1,4 +1,4 @@
-# Human in The Loop
+# 80-20 Human in The Loop
 
 **Organize. Don't Optimize.**
 
